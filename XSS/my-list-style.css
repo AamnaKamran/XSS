@@ -1,0 +1,101 @@
+h1{
+    text-align: center;
+    color: rgb(82, 22, 42);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 60px;
+}
+
+h2{
+    font-family: 'Calibri', sans-serif;
+    color:rgb(87, 16, 31);
+    font-size: 40px;
+    padding-left: 40px;
+}
+
+body{
+    background: rgb(206, 162, 177);
+}
+
+.header-images{
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background: palevioletred;
+    padding: 10px;
+}
+
+.images{
+    height: 350px;
+    border-radius: 25px;
+    margin-right: 50px;
+}
+
+.intro-text, p{
+    font-family: 'Calibri', sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    color: rgb(44, 42, 42);
+    margin:0px 40px 0px 40px;
+    padding-bottom: 20px;
+}
+
+p{
+    width: 700px;
+}
+
+.intro-text{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.cat-info{
+    display: flex;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+
+span{
+    color: rgb(214, 31, 62);
+    font-family: 'Calibri', sans-serif;
+    font-size: 36px;
+}
+
+.cat{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+
+#textbox{
+    width:200px;
+    height:50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;  
+    vertical-align: text-top;
+    margin-left: 40px;
+}
+
+label{
+    color: rgb(99, 0, 16);
+    font-family: 'Calibri', sans-serif;
+    font-size: 18px;
+    margin-left: 40px;
+}
+
+button{
+    font-family: 'Calibri', sans-serif;
+    font-size: large;
+    margin-left: 40px;
+}
+
+#input{
+    color: rgb(51, 3, 11);
+    font-family: 'Calibri', sans-serif;
+    font-size: 15px;
+    margin-left: 40px;
+}
